@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjassran&label=Profile%20views&color=0e75b6&style=flat" alt="harjassran" /> </p>
 
-- 🔭 I’m currently working on project called **Sudoku Solver GUI**
+- 🔭 I’m currently working on project called **Sudoku Solver GUI and a Data Extraction project for my Co-op Job**
 
-- 🤝 I’m looking for help with **finding a Summer 2023 Co-op position**
+<!-- - 🤝 I’m looking for help with **finding a Summer 2023 Co-op position** -->
+ - 🤝 I’m currently working at **Amico Affiliates as a Student Junior Developer**
 
 - 💬 Ask me about **my programming background and goals!**
 
